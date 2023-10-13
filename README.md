@@ -1,4 +1,4 @@
-#Link to MazuMIS: https://github.com/samLiOfficial/MazuMIS
+# Link to MazuMIS: https://github.com/samLiOfficial/MazuMIS
 # MazuMIS
 
 The MazuMIS is a full-stack donation recording program developed using Java, JSP, JDBC, Servlet/Java, and SQL. It provides a user-friendly interface for recording and managing donations at the Mazu Temple under the Chinese Canada Mazu Culture Association.
