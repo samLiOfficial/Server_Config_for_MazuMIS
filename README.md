@@ -1,3 +1,4 @@
+# You need to download this repository to run MazuMIS.
 # Link to MazuMIS: https://github.com/samLiOfficial/MazuMIS
 # MazuMIS
 
